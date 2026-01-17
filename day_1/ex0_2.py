@@ -1,3 +1,19 @@
+# Exercice 2 – Paquets de bouteilles
+#
+# Une usine emballe des bouteilles dans des cartons contenant un nombre fixe de bouteilles.
+#
+#     Proposer des variables permettant de stocker :
+#         le nombre total de bouteilles,
+#         la capacité d’un carton,
+#         le nombre de cartons complets,
+#         le nombre de bouteilles restantes.
+#
+#     Demander les valeurs à l’utilisateur avec input().
+#
+#     Calculer le nombre de cartons complets et le reste de bouteilles.
+#
+#     Afficher les résultats sous forme de phrase.
+
 total_bouteilles = int(input("Donnez le nombre de total de bouteilles : "))
 capacite_carton = int(input("Donne la capacite d'un carton : "))
 # carton_complets =

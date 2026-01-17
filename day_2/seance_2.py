@@ -1,14 +1,12 @@
-nom = ("Vombien de filles ? ")
-print(nom)
 
 
 
 
-# noms = ['Waldeme', 'Nolson', 'Erve', 'Paul']
-#
-# for nom in noms:
-#     print('Bonjour '+ nom)
-#     print(f'Bonjour {nom}, comment vas tu ?')
+noms = ['Waldeme', 'Nolson', 'Erve', 'Paul']
+
+for nom in noms:
+    print('Bonjour '+ nom)
+    print(f'Bonjour {nom}, comment vas tu ?')
 
 
 # print('Jean')
